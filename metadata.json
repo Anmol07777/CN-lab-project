@@ -1,0 +1,5 @@
+{
+  "name": "React TCP Chat Simulator",
+  "description": "A web-based simulation of a multi-client TCP chat application, built with React and TypeScript. It demonstrates core concepts like broadcasting, user management, and real-time messaging in a modern UI, fulfilling the user's request for a Python TCP chat by translating it into a web application.",
+  "requestFramePermissions": []
+}
